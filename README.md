@@ -1,1 +1,1 @@
-# EDA-Project-Telicom-Churn
+# EDA-Project- Appliances Energy Prediction
